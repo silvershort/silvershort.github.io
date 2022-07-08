@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/fonts/one_mobile_bold.otf": "361d3d67bb32d2c15d8ef861867b70dd",
 "assets/fonts/one_mobile_light.otf": "7d434afba2ddefae9bd537ebc6711ed5",
 "assets/fonts/one_mobile_regular.otf": "c7d29531f8219639cb3616c9ac3dde7d",
-"assets/NOTICES": "c14009855b12a9d60e109a6aad886305",
+"assets/NOTICES": "f1c4eb8f11dbdf67bca2b503a8e70b90",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -18,7 +18,7 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "index.html": "d0183a1f626eb6061795c0d668fc6b4c",
 "/": "d0183a1f626eb6061795c0d668fc6b4c",
-"main.dart.js": "070cc5952f694982fb3a4e47fbded450",
+"main.dart.js": "453deeb42fb6502c7b56004b8a65b5f7",
 "version.json": "49d6629259b49e12abd068f907c6bfa9"
 };
 
